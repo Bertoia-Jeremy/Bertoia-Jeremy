@@ -7,8 +7,6 @@ Je suis en reconversion professionnelle, et souhaite après 2 ans de programmati
 
 #### Actuellement je travaille sur :
 
-- Le projet Immobilier (Symfony)
-
 - Le futur blog (Symfony) de ma chérie
 
 - Approfondissement de Symfony
