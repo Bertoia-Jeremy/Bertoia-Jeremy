@@ -11,6 +11,8 @@ Je suis en reconversion professionnelle, et souhaite après 2 ans de programmati
 
 - Approfondissement de Symfony
 
+- Compétences de résolution sur [Codingame](https://www.codingame.com/)
+
 - Le dressage de chien
 
 - La permaculture
@@ -23,6 +25,8 @@ Je suis en reconversion professionnelle, et souhaite après 2 ans de programmati
 - Faire un packagist Symfony
 
 - Aborder React, Nodejs et voir ce que c'est.
+
+- Réussir un jeu Codingame Difficile (et pourquoi pas Très difficile ensuite)
 
 - Dresser mes chiens
 
