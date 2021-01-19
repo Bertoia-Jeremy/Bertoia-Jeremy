@@ -28,7 +28,7 @@ Je suis en reconversion professionnelle, et souhaite après 2 ans de programmati
 
 - Réussir un jeu Codingame Difficile (et pourquoi pas Très difficile ensuite)
 
-- Dresser mes chiens
+- Dresser parfaitement mes chiens
 
 - Avoir un jardin-forêt
   
