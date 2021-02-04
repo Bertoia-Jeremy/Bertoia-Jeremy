@@ -7,7 +7,7 @@ Je suis en reconversion professionnelle, et souhaite après 2 ans de programmati
 
 #### Actuellement je travaille sur :
 
-- Les tests
+- Les tests de programmation
 
 - La lecture du livre [Coder proprement de Robert C. Martin (Edition 2019)](https://www.amazon.fr/Coder-proprement-Robert-C-Martin/dp/232600227X)
 
