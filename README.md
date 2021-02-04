@@ -7,7 +7,11 @@ Je suis en reconversion professionnelle, et souhaite après 2 ans de programmati
 
 #### Actuellement je travaille sur :
 
-- Le futur blog (Symfony) de ma chérie
+- Les tests
+
+- La lecture du livre [Coder proprement de Robert C. Martin (Edition 2019)](https://www.amazon.fr/Coder-proprement-Robert-C-Martin/dp/232600227X)
+
+- Le futur blog culinaire (Symfony) de ma chérie
 
 - Approfondissement de Symfony
 
