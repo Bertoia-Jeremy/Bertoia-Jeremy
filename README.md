@@ -15,11 +15,6 @@
 - Aborder React, Nodejs et voir ce que c'est.
 
 - Réussir un jeu Codingame Difficile (et pourquoi pas Très difficile ensuite)
-  
-
-#### Voici comment me contacter :
-
-https://www.linkedin.com/in/jérémy-bertoïa-756875178
 
 
 ## Langages utilisés ?
