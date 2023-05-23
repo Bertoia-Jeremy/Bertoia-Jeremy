@@ -4,9 +4,7 @@
 
 #### Actuellement je travaille sur :
 
-- Les préparatifs pour les 30ans de ma femme et moi même, le but premier ? Réaliser un faiseur de questionnaire.
-
-- Le futur blog culinaire (Symfony) de ma chérie
+- SpicyMatch, un projet qui va m'aider à cuisiner avec diverses épices.
 
 - Approfondissement de Symfony
 
@@ -34,3 +32,5 @@ https://www.linkedin.com/in/jérémy-bertoïa-756875178
 + JavaScript, Bootstrap
 
 + HTML5, CSS3
+
++ Bash
