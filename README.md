@@ -10,8 +10,6 @@
 
 #### Ce que j'aimerais faire ensuite :
 
-- Faire un packagist Symfony
-
 - Aborder React, Nodejs et voir ce que c'est.
 
 - Réussir un jeu Codingame Difficile (et pourquoi pas Très difficile ensuite)
