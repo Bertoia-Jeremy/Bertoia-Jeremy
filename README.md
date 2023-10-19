@@ -4,16 +4,13 @@
 
 #### Actuellement je travaille sur :
 
-- SpicyMatch, un projet qui va m'aider à cuisiner avec diverses épices.
+- SpicyMatch, un projet qui va m'aider à cuisiner avec diverses épices. Pour ce faire je vais utiliser du React, Symfony, Sql. Et ajouter quelques principes de gamification.
 
 - Approfondissement de Symfony
 
-#### Ce que j'aimerais faire ensuite :
+- Apprentissage des différents design pattern
 
-- Aborder React, Nodejs et voir ce que c'est.
-
-- Réussir un jeu Codingame Difficile (et pourquoi pas Très difficile ensuite)
-
+- Perfection de l'anglais
 
 ## Langages utilisés ?
 
@@ -22,7 +19,7 @@
 
 + PHP, MySQL
 
-+ JavaScript, Bootstrap
++ ReactJs, JavaScript, Bootstrap
 
 + HTML5, CSS3
 
